@@ -1,0 +1,1 @@
+# secret-protection-single-key-test
